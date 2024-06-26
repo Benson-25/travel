@@ -1,0 +1,12 @@
+
+.header {
+  padding-top: 90px;
+  padding-bottom: 120px;
+  background-size: cover;
+  background-position: center center;
+}
+
+.bg-cover {
+  background-size: cover;
+  background-position: center center;
+}
